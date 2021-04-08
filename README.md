@@ -2,7 +2,7 @@
 
 ## About
 
-[exp-log.c](exp-log-c) is a C model of an iterative algorithm for calculating exponentials and logarithms of fixed-point numbers [Ch. 8, 1]. The iterative part is implemented in carry-save representation. The model can be used for an experimental study and design of bit-equivalent hardware implementations through parameterized fixed-point precision and number of iterations [Ch. 5, 2].
+[exp-log.c](exp-log.c) is a C model of an iterative algorithm for calculating exponentials and logarithms of fixed-point numbers [Ch. 8, 1]. The iterative part is implemented in carry-save representation. The model can be used for an experimental study and design of bit-equivalent hardware implementations through parameterized fixed-point precision and number of iterations [Ch. 5, 2].
 
 The algorithm implemented here can be used to calculate elementary functions of arguments in very narrow ranges, such as after range reduction of floating-pointing inputs [Ch. 11, 1], [Ch. 5, 2]. Range reduction is not included in this model.
 

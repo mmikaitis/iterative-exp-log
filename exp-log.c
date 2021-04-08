@@ -4,7 +4,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-// Number of bits in the fractional part of the internal representation (<= 60).
+// Number of bits in the fractional part of the internal representation (<= 59).
 #define FRACT_BITS 40
 
 #define CALC_LOG 0

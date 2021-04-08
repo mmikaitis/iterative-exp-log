@@ -109,8 +109,7 @@ double exp_log_iterative(uint64_t x, unsigned int n, bool exp_not_log,
     EL_star_cs.s = EL_star_cs.s & 0xF;
     EL_star_cs.c = EL_star_cs.c & 0xF;
 
-    // Convert from carry-save to non-redundant
-    // representation
+    // Convert from carry-save to non-redundant representation.
     uint64_t EL_star_b = cs_to_binary(EL_star_cs);
     EL_star_b &= 0xF;
 

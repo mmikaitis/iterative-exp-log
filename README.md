@@ -12,7 +12,7 @@ The number of iterations to run the iterative algorithm for is an input to the `
 
 ## References
 
-[1] Jean-Michel Muller. [Elementary Function: Algorithms and Implementation](https://www.springer.com/gp/book/9781489979810#aboutBook). Birkhäuser Basel. 3rd edition. 2016.
+[1] Jean-Michel Muller. [Elementary Functions: Algorithms and Implementation](https://www.springer.com/gp/book/9781489979810#aboutBook). Birkhäuser Basel. 3rd edition. 2016.
 
 [2] Mantas Mikaitis. [Arithmetic Accelerators for a Digital Neuromorphic Processor](https://www.research.manchester.ac.uk/portal/files/173360010/FULL_TEXT.PDF). PhD thesis. University of Manchester. 2020.
 
